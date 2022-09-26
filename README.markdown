@@ -1,4 +1,4 @@
-# Character Extraction in Narrative Texta
+# Character Extraction in Narrative Texts
 Code for my MSc Project, extracting characters from narrative texts. Raw datasets are not included in this upload. Processed datasets, intermediate data files and experimental results are obtained by running Jupyter Notebooks, contained within *data*, *notebooks - feature construction* and *notebooks - evaluation*. At the top of each Notebook is a brief introduction explaining the Notebooks purpose and outcomes. The location of Notenooks and the content of each folder in the project is described below. 
 
 ### *data*
